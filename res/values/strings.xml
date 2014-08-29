@@ -9,5 +9,8 @@
     <string name="make_shortcut">Make shortcut</string>
     <string name="delay">Delay</string>
     <string name="title_activity_ssh">SSHActivity</string>
+    <string name="host">Host</string>
+    <string name="username">User name</string>
+    <string name="password">Password</string>
 
 </resources>
